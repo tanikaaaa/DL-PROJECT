@@ -12,6 +12,16 @@ The model progressively learns facial structures, textures, lighting patterns, a
 
 ---
 
+## 📈 Key Highlights
+
+- Trained a DCGAN on 200K+ CelebA face images
+- Implemented an end-to-end TensorFlow training pipeline
+- Applied label smoothing, batch normalization, and dropout for stable adversarial training
+- Generated realistic 64×64 RGB face images from a 100-dimensional latent space
+- Tuned hyperparameters to improve image quality and reduce mode collapse
+
+--- 
+
 ## ✨ Features
 
 - Deep Convolutional GAN (DCGAN) architecture
